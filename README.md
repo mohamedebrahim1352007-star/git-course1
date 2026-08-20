@@ -2,4 +2,4 @@
 for elzero course
 
 
-## progect notes
+## progict notes
